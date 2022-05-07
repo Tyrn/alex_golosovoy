@@ -1,5 +1,5 @@
 from email import message
-from winreg import EnableReflectionKey
+#from winreg import EnableReflectionKey
 import speech_recognition as sr
 import pyttsx3
 import datetime
